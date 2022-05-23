@@ -12,3 +12,7 @@ Another useful function is the ability to add keywords at the end of the query i
 ![Keywords](https://user-images.githubusercontent.com/16565764/169750460-9b2f3344-8fdb-4f9b-b3fe-d550336beafd.png)
 
 
+Besides the above mentioned usage, of searching companies on either a search engine or Wikipedia, you can even search up keywords in order to find details about producers
+![Uses](https://user-images.githubusercontent.com/16565764/169750868-4aebe04e-b8f3-474c-b07f-4aa54bc4337f.png)
+
+By playing around with the keywords box and supply chain keywords, you are able to generate thousands of search queries without too much effort, and all of them are able to be copied immediately.
